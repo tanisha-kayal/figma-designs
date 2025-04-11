@@ -1,4 +1,4 @@
-# 🎨 Tanisha Kayal – UI/UX Design Portfolio
+# 🎀 Tanisha Kayal – UI/UX Design Portfolio
 
 Welcome to my design space.  
 This repository is a curated collection of my UI/UX work, designed entirely in **Figma**.
